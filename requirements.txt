@@ -1,0 +1,10 @@
+torch>=2.1
+transformers>=4.38
+scikit-learn>=1.3
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+
+nbformat>=5.9      # only for notebooks/Colab_Runner.ipynb tooling
+torchvision>=0.16
+pillow>=10.0
